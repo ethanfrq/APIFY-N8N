@@ -2,8 +2,6 @@
 
 Workflow **n8n** pour collecter des commerces (restaurants, garages, coiffure, bien-être, etc.) via **Apify**, enregistrer dans **Google Sheets**, tracer des étapes via **Telegram**, puis envoyer un **récap HTML** via **Gmail**.
 
-> Généré automatiquement le 2026-01-29T07:38:10.699Z
-
 ---
 
 ## 🧩 Aperçu
